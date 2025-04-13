@@ -188,4 +188,4 @@ MIT – Use freely.
 
 Tomer Koren  
 Email: tomerko@gmail.com  
-Project for: *Integrations Developer Role @ Atlassian*
+Project for: *Integrations Developer Role @ ai.work*
